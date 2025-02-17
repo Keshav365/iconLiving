@@ -1,0 +1,4 @@
+https://agentsketch.ai/
+https://huggingface.co/OFA-Sys/small-stable-diffusion-v0
+https://github.com/huggingface/diffusers/tree/main
+https://huggingface.co/CompVis/stable-diffusion-v1-4
